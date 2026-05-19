@@ -5,4 +5,4 @@ Ansh_fr • he/him
 
 🌐 Check out my website -> [guns.lol/4nsh](https://guns.lol/4nsh) 
 
-𝕏 X -> [x.com/PlayerDude011](https://x.com)  
+𝕏 -> [x.com/PlayerDude011](https://x.com)  
