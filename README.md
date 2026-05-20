@@ -1,10 +1,11 @@
-### Ansh_FR / README.md
-Ansh_fr • he/him
+<small>`Ansh_FR / README.md`</small>
 
-👉 Check out my GitHub -> [github.com/ANSH2012](https://github.com)  
+<small>Ansh_fr • he/him</small>
 
-🌐 Check out my website -> [guns.lol/4nsh](https://guns.lol/4nsh) 
+👉 Check out my GitHub -> [github.com/ANSH2012](https://github.com)
 
-𝕏 -> [x.com/PlayerDude011](https://x.com)  
+🌐 Check out my website -> [guns.lol/4nsh](https://guns.lol/4nsh)
+
+𝕏 -> [x.com/PlayerDude011](https://x.com)
 
 ![Snake animation](https://github.com/ANSH2012/ANSH2012/blob/output/github-contribution-grid-snake.svg)
